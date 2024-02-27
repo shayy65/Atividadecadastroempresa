@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\bin\Debug\Cadastro de Empresas.exe.config
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\bin\Debug\Cadastro de Empresas.exe
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\bin\Debug\Cadastro de Empresas.pdb
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro_de_Empresas.Cadastro.resources
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro_de_Empresas.Menu.resources
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro_de_Empresas.Properties.Resources.resources
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.exe
+C:\Users\Lenovo\Documents\IFRO 3° Ano\P.D.S\Cadastro de Empresas\Cadastro de Empresas\obj\Debug\Cadastro de Empresas.pdb
